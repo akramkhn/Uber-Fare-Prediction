@@ -1,5 +1,7 @@
 Uber Ride Fare Prediction
+
 Overview
+
 This project aims to develop a machine learning model that predicts the fare of Uber rides. By analyzing historical ride data and leveraging machine learning techniques, we aim to provide accurate fare estimates to users, improving their experience with the Uber service.
 
 Steps Taken
