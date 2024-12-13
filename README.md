@@ -5,6 +5,7 @@ Overview
 This project aims to develop a machine learning model that predicts the fare of Uber rides. By analyzing historical ride data and leveraging machine learning techniques, we aim to provide accurate fare estimates to users, improving their experience with the Uber service.
 
 Steps Taken
+
 1. Data Loading and Data Cleaning using Pandas
    
 We loaded the dataset into the Python environment using Pandas, a powerful data manipulation library. Through data cleaning, we handled missing values, removed duplicates, and corrected data inconsistencies, ensuring the quality and reliability of the dataset for analysis and modeling.
